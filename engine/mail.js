@@ -41,4 +41,4 @@ function getHtmlMsg(name, link) {
 }
 
 module.exports = send_mail;
-// send_mail("Ankit", "ankitraj240aj@gmail.com", "khhbhj");
+// send_mail("name", "email", "link");

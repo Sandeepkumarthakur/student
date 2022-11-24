@@ -1,5 +1,8 @@
 # STEPS
 
+# db
+# use local mysql server
+
 # engine
 # run npm i
 # add .env file with field same as given in .env.example
